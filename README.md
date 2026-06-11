@@ -46,6 +46,3 @@
   <img src="https://streak-stats.demolab.com/?user=thienkim03&theme=github-dark-blue&hide_border=true&cache_seconds=86400&ring=0f4c5c&fire=1d9e75&currStreakLabel=5dcaa5" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thienkim03&theme=github_dark&hide_border=true&layout=compact&title_color=5dcaa5" />
-</p>
