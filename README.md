@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/thienkim03"><img src="https://img.shields.io/badge/in%2Fthienkim03-0f4c5c?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-> Turning data into decisions — TikTok Shop analytics, dashboard development, and e-commerce performance reporting.
+> Turning data into decisions — Shop analytics, dashboard development, and e-commerce performance reporting.
 
 ---
 
