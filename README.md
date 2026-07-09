@@ -13,7 +13,7 @@
 **What I'm looking for**
 
 - Collaborating on analytics, dashboard and e-commerce projects
-- Roles in Data Analyst, Business Analyst or Marketing Analyst
+- Roles in Data Analyst or Marketing Analyst
 - Mentorship in advanced analytics and data storytelling
 
 ---
@@ -29,7 +29,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-0f4c5c?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-0f4c5c?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f4c5c?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-0f4c5c?style=flat-square&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-0f4c5c?style=flat-square&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-0f4c5c?style=flat-square&logo=playwright&logoColor=white" />
