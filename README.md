@@ -42,6 +42,5 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thienkim03&cache_seconds=7200&layout=compact&theme=github_dark&hide_border=true&border_radius=8&title_color=5dcaa5&icon_color=1d9e75" />
-  <img src="https://streak-stats.demolab.com/?user=thienkim03&theme=github-dark-blue&hide_border=true&cache_seconds=86400&ring=0f4c5c&fire=1d9e75&currStreakLabel=5dcaa5" width="49%" />
 </p>
 
